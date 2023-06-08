@@ -13,7 +13,7 @@ beautifulsoup4
 icetk
 cpm_kernels
 faiss-cpu
-detectron2@git+https://github.com/facebookresearch/detectron2.git@v0.6#egg=detectron2   # PDF需要
+
 wandb==0.13.0
 jina    # API版本需要
 langchain-serve # API版本需要
